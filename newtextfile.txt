@@ -1,3 +1,5 @@
 Git Push: Is a command is used to upload local repository content to a remote repository. 
 
 Git Checkout: Is used to switch between branches or to restore working tree files.
+
+Git Commit: It is used to record changes in the local repository.
