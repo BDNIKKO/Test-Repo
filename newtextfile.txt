@@ -1,0 +1,1 @@
+Git Push: Is a command is used to upload local repository content to a remote repository. 
